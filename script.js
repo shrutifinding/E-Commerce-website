@@ -1,7 +1,11 @@
 const products = [
-    { id: 1, name: 'Product 1', price: 20, image: 'product1.jpg' },
-    { id: 2, name: 'Product 2', price: 30, image: 'product2.jpg' },
-    { id: 3, name: 'Product 3', price: 80, image: 'product3.jpg' },
+    { id: 1, name: 'Product 1', price: 20, image: 'https://tse3.mm.bing.net/th?id=OIP.ZUktNr4TbMEsqzJ62haeSgHaHa&pid=Api&P=0&h=180' },
+    { id: 2, name: 'Product 2', price: 30, image: 'https://tse4.mm.bing.net/th?id=OIP.T3tbPj9n4-z5QSZDQH2tiQHaKn&pid=Api&P=0&h=180' },
+    { id: 3, name: 'Product 3', price: 80, image: 'https://tse4.mm.bing.net/th?id=OIP.uk4HvdXE1uEQ9dw4z0QNtQHaHa&pid=Api&P=0&h=180' },
+    { id: 1, name: 'Product 4', price: 20, image: 'https://tse4.mm.bing.net/th?id=OIP.0aWSUxcB7gTiXNu_nFOWHgHaHa&pid=Api&P=0&h=18' },
+    { id: 2, name: 'Product 5', price: 80, image: 'https://tse2.mm.bing.net/th?id=OIP.q0oBWF6NqA2wA0xl2ImevQHaHW&pid=Api&P=0&h=180' },
+    { id: 3, name: 'Product 6', price: 100, image: 'https://tse1.mm.bing.net/th?id=OIP.WNK1ovuXmgOS1FeQAZDmiQAAAA&pid=Api&P=0&h=180' },
+    { id: 3, name: 'Product 7', price: 500, image: 'https://tse1.mm.bing.net/th?id=OIP.m52Dkey70zMu1lZqxbiwEQHaHa&pid=Api&P=0&h=180 },   
 ];
 
 const productList = document.getElementById('product-list');
